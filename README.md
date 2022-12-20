@@ -1,4 +1,17 @@
+<h1 align="center">Hi 👋, I'm Akesh T A</h1>
+<h3 align="center">A passionate fullstack developer from Bangalore, India</h3>
 
+- 🌱 I’m currently learning **MERN Stack Developer**
+
+- 👨‍💻 All of my projects are available at [https://akesh.netlify.app/](https://akesh.netlify.app/)
+
+- 💬 Ask me about **React, Node, Express.js, Mongo DB**
+
+- 📫 How to reach me **akeshakesh75@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/akesh T A) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akesh T A) 
 
