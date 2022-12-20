@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akesh T A</h1>
 <h3 align="center">A passionate fullstack developer from Bangalore, India</h3>
 
-- 🌱 I’m currently learning **MERN Stack Developer**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://akesh.netlify.app/](https://akesh.netlify.app/)
 
