@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Node, Express.js, Mongo DB**
 
-- 📫 reach me at **akeshakesh75@gmail.com**
+- 📫 reach me **akeshakesh75@gmail.com**
 
 
 
