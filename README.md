@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Node, Express.js, Mongo DB**
 
-- 📫 reach me **akeshakesh75@gmail.com**
+- 📫 Feel free to contact me at **akeshakesh75@gmail.com**
 
 
 
@@ -21,6 +21,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akesh13&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=akesh13&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
