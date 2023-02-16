@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akesh T A</h1>
-<h3 align="center">A passionate fullstack developer from Bangalore, India</h3>
+<h3 align="center">A passionate Software developer from Bangalore, India</h3>
 
 - 🌱 I’m proficient with **MERN Stack**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Node, Express.js, Mongo DB**
 
-- 📫 Feel free to contact me at **akeshakesh75@gmail.com**
+- 📫 Fell free to connect with me at **akeshakesh75@gmail.com**
 
 
 
